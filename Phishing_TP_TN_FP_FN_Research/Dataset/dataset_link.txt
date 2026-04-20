@@ -1,0 +1,6 @@
+dataset1 (Dec 2020) ----> https://www.sciencedirect.com/science/article/pii/S2352340920313202
+dataset2 (2021)----> https://www.kaggle.com/datasets/winson13/dataset-for-link-phishing-detection
+dataset3 (Mar 2024) ----> https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1308634/full
+dataset4 (Oct 2020) ----> https://arxiv.org/pdf/2010.12847
+dataset5 (Mar 2018) ----> https://www.semanticscholar.org/paper/Phishing-Dataset-for-Machine-Learning%3A-Feature-Tan/c8fed3ec9288d0eeaeb0afc607de9173ab02d983
+dataset6 (Mar 2018) ----> https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset
